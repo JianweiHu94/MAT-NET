@@ -14,6 +14,23 @@ If you use our code or models, please cite our paper.
         month     = {7}
         }
 
-## Dataset
+# Dataset and Pre-trained model
+We repaired 83:2% of all 3D models in ModelNet40 and constructed a MAT data set, named ModelNet40-MAT.
+You can download the dataset and pre-trained model files in
+https://drive.google.com/drive/folders/1P9VFcaXf4xXvBARU-W1OK-D0whfABkyD?usp=sharing
+
+
+# Enviroment
+python 2.7
+CUDA 8.0
+tensorflow 1.4
+
+# Training
+python train.py
+
+# Evaluation
+python evaluate.py
+
+
 
 
