@@ -13,8 +13,6 @@ If you use our code or models, please cite our paper.
   pages     = {774--781},
   year      = {2019},
   month     = {7},
-  doi       = {10.24963/ijcai.2019/109},
-  url       = {https://doi.org/10.24963/ijcai.2019/109},
 }
 
 
